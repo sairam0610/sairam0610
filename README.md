@@ -18,11 +18,11 @@
 
 - 🎓 B.Tech Graduate in **Data Science**
 - 💻 Passionate **Python Full Stack Developer**
-- 🌱 Currently learning **FastAPI, Advanced Backend Development & Cloud Technologies**
+- 🌱 Currently learning **FastAPI, SQL**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🚀 Developed **Fake Handwritten Signature Detection** using Siamese CNN
 - 🩺 Built an **AI Prescription Generator**
-- 👯 Looking to collaborate on **Open Source, Python & AI/ML Projects**
+- 👯 Looking to collaborate on **Python & AI/ML Projects**
 - 💬 Ask me about **Python, Flask, FastAPI, Machine Learning, APIs, MySQL & MongoDB**
 - 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/sairam0610/)** or email me at **vallurusrikeshavasairam@gmail.com**
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,fastapi,mysql,mongodb,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,fastapi,mysql," />
   </a>
 </p>
 
